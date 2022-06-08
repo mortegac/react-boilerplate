@@ -18,7 +18,7 @@ npm install
 npm start
 ```
 
-# Desacargar el proyecto
+# Para descargar el proyecto
 
 …or create a new repository on the command line
 ```
